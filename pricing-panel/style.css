@@ -1,0 +1,110 @@
+.font1 {
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-size: 22px;
+    margin-top: 35px;
+    color: #727498;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+    background-color: #f7f7fe;
+    overflow: hidden;
+}
+
+.main {
+    display: inline-flex;
+    color: #bebebe;
+    /* margin-top: 19px; */
+    font-size: 11px;
+}
+
+.el {
+    width: 62px;
+    text-align: right;
+}
+
+.bott {
+    background: linear-gradient(322deg, #7a7ef3, #b3b5f0);
+    width: 35px;
+    height: 19px;
+    margin: auto;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.bb1 {
+    background: white;
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    display: inline-block;
+    margin: 2px 2px 2px 2px;
+}
+
+.pric1 {
+    background: linear-gradient(318deg, #5e62ca, #9fa2ea);
+    width: 304px;
+    height: 430px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 32px;
+    font-family: 'Cabin', sans-serif;
+    /* box-shadow: 0px 0px 24px 0px #dfe1f7; */
+    transform: scale(1.1);
+    color: white;
+}
+
+.pric2 {
+    background: linear-gradient(318deg, #5e62ca, #9fa2ea);
+    width: 304px;
+    height: 445px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 18px;
+    font-family: 'Cabin', sans-serif;
+    /* box-shadow: 0px 0px 24px 0px #dfe1f7; */
+    translate: scale(1.1);
+    color: white;
+    background: white;
+    margin: 12px;
+}
+
+.pric3 {
+    background: linear-gradient(318deg, #5e62ca, #9fa2ea);
+    width: 304px;
+    height: 445px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 18px;
+    font-family: 'Cabin', sans-serif;
+    /* box-shadow: 0px 0px 24px 0px #dfe1f7; */
+    translate: scale(1.1);
+    color: white;
+    background: white;
+    margin: 12px;
+}
+
+.mother {
+    display: inline-flex;
+}
+
+.bottone {
+    border: none;
+    width: 100%;
+    height: 41px;
+    border-radius: 5px;
+    background: white;
+    color: #5a5ecd;
+    font-family: 'Kanit';
+}
+
+.button3 {
+    border: none;
+    width: 100%;
+    height: 41px;
+    border-radius: 5px;
+    background: linear-gradient(305deg, #5a5ecd, #9fa4eb);
+    color: white;
+    font-family: 'Kanit';
+}
