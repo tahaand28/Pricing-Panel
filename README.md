@@ -1,6 +1,5 @@
 # pricing-panel
-This is a pricing panel built with HTML and CSS and is separate from the animated background.
-
+این یک پنل قیمت‌گذاری است که با HTML و CSS ساخته شده و از پس‌زمینه متحرک جدا است.
 
 <img src="pricing-panel.png">
 
